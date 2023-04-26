@@ -13,3 +13,5 @@
 <h4 align="left">Favorite programming languages 💖</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOn9in&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=EOn9in)
