@@ -4,8 +4,8 @@
 
 <h4 align="center">🏆GitHub My Trophy</h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EOn9in)](https://github.com/ryo-ma/github-profile-trophy)
+[!align="center"[trophy](https://github-profile-trophy.vercel.app/?username=EOn9in)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h4 align="center">Streak stats 🔥</h4>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EOn9in)](https://git.io/streak-stats)
+[!align="center"[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EOn9in)](https://git.io/streak-stats)
