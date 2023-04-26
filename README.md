@@ -9,3 +9,7 @@
 <h4 align="left">Streak stats 🔥</h4>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EOn9in)](https://git.io/streak-stats)
+
+<h4 align="left">Favorite programming languages 💖</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
