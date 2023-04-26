@@ -3,7 +3,7 @@
 <h3 align="center">I am a second-year college programmer student 👨‍💻</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="300"/>
 </div>
 
 <h4 align="left">🏆GitHub My Trophy</h4>
