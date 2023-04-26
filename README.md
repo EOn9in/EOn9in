@@ -2,6 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a second-year college programmer student 👨‍💻</h3>
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47n55r62mpjkr9c6229y08klw5kk4yd9p696j7eofu&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="100"/>
+</div>
+
 <h4 align="left">🏆GitHub My Trophy</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EOn9in)](https://github.com/ryo-ma/github-profile-trophy)
