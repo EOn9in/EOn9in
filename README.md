@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a second-year college programmer student 👨‍💻</h3>
+<h3 align="center">I am a third year college student 👨‍💻</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="300"/>
